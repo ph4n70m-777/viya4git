@@ -1,0 +1,17 @@
+{
+  "scoreType" : "ds2MultiType",
+  "algorithm" : "Ensemble",
+  "algorithmI18N" : "ensemble.node.name.txt",
+  "enableRegistration" : "true",
+  "enableScoring" : "true",
+  "astores" : {
+    "scoreResources" : {
+      "resource1" : "_18L5F0E0VY6E9VB7Q8KV5D9VH_AST",
+      "resource2" : "_1JAVGJURK13R25V45HT83944B_AST",
+      "resource3" : "_1UI1UVU1AUL2A814HLT54H4PM_AST",
+      "resource4" : "_23A228P0N10X99SCD6BL20NX1_AST",
+      "resource5" : "_BQBDM3RRBIFY446XBX9NNCUB_AST",
+      "resource6" : "_CI1ZDYHZEPV2E3DHU2H6O8PLN_AST"
+    }
+  }
+}

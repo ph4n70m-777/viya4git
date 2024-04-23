@@ -1,0 +1,1129 @@
+[
+  {
+    "level": "",
+    "name": "COMP1",
+    "length": 8,
+    "description": "",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "COMP10",
+    "length": 8,
+    "description": "",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "COMP11",
+    "length": 8,
+    "description": "",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "COMP12",
+    "length": 8,
+    "description": "",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "COMP13",
+    "length": 8,
+    "description": "",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "COMP14",
+    "length": 8,
+    "description": "",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "COMP2",
+    "length": 8,
+    "description": "",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "COMP3",
+    "length": 8,
+    "description": "",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "COMP4",
+    "length": 8,
+    "description": "",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "COMP5",
+    "length": 8,
+    "description": "",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "COMP6",
+    "length": 8,
+    "description": "",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "COMP7",
+    "length": 8,
+    "description": "",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "COMP8",
+    "length": 8,
+    "description": "",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "COMP9",
+    "length": 8,
+    "description": "",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "EM_CLASSIFICATION",
+    "length": 12,
+    "description": "Into: BAD",
+    "type": "string"
+  },
+  {
+    "level": "",
+    "name": "EM_EVENTPROBABILITY",
+    "length": 8,
+    "description": "Predicted: BAD\u003d1",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "EM_PROBABILITY",
+    "length": 8,
+    "description": "Probability of Classification",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "Hidden1",
+    "length": 8,
+    "description": "Autoencoder Hidden Neuron 1",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "Hidden10",
+    "length": 8,
+    "description": "Autoencoder Hidden Neuron 10",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "Hidden2",
+    "length": 8,
+    "description": "Autoencoder Hidden Neuron 2",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "Hidden3",
+    "length": 8,
+    "description": "Autoencoder Hidden Neuron 3",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "Hidden4",
+    "length": 8,
+    "description": "Autoencoder Hidden Neuron 4",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "Hidden5",
+    "length": 8,
+    "description": "Autoencoder Hidden Neuron 5",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "Hidden6",
+    "length": 8,
+    "description": "Autoencoder Hidden Neuron 6",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "Hidden7",
+    "length": 8,
+    "description": "Autoencoder Hidden Neuron 7",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "Hidden8",
+    "length": 8,
+    "description": "Autoencoder Hidden Neuron 8",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "Hidden9",
+    "length": 8,
+    "description": "Autoencoder Hidden Neuron 9",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "IMP_CLAGE",
+    "length": 8,
+    "description": "Imputed CLAGE",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "IMP_CLNO",
+    "length": 8,
+    "description": "Imputed CLNO",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "IMP_DEBTINC",
+    "length": 8,
+    "description": "Imputed DEBTINC",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "IMP_MORTDUE",
+    "length": 8,
+    "description": "Imputed MORTDUE",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "IMP_VALUE",
+    "length": 8,
+    "description": "Imputed VALUE",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "IMP_YOJ",
+    "length": 8,
+    "description": "Imputed YOJ",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "INVSQR_ho_winsor_IMP_MORTDUE",
+    "length": 8,
+    "description": "Transformed IMP_MORTDUE: High outlier - winsorize",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "INVSQR_ho_winsor_IMP_VALUE",
+    "length": 8,
+    "description": "Transformed IMP_VALUE: High outlier - winsorize",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "INVSQR_ho_winsor_LOAN",
+    "length": 8,
+    "description": "Transformed LOAN: High outlier - winsorize",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "INVSQR_ho_winsor_MORTDUE",
+    "length": 8,
+    "description": "Transformed MORTDUE: High outlier - winsorize",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "INVSQR_ho_winsor_VALUE",
+    "length": 8,
+    "description": "Transformed VALUE: High outlier - winsorize",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "INV_nhoks_nloks_pow_n2_LOG_LOAN",
+    "length": 8,
+    "description": "Transformed LOG_LOAN: Not high (outlier, kurtosis, skewness) - power(-2)",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "INV_nhoks_nloks_pow_n2_YOJ",
+    "length": 8,
+    "description": "Transformed YOJ: Not high (outlier, kurtosis, skewness) - power(-2)",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "I_BAD",
+    "length": 32,
+    "description": "Into: BAD",
+    "type": "string"
+  },
+  {
+    "level": "",
+    "name": "LOG_LOAN",
+    "length": 8,
+    "description": "Transformed LOAN",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "M_CLAGE",
+    "length": 8,
+    "description": "Missing Indicator for CLAGE",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "M_CLNO",
+    "length": 8,
+    "description": "Missing Indicator for CLNO",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "M_DEBTINC",
+    "length": 8,
+    "description": "Missing Indicator for DEBTINC",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "M_DELINQ",
+    "length": 8,
+    "description": "Missing Indicator for DELINQ",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "M_DEROG",
+    "length": 8,
+    "description": "Missing Indicator for DEROG",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "M_JOB",
+    "length": 8,
+    "description": "Missing Indicator for JOB",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "M_MORTDUE",
+    "length": 8,
+    "description": "Missing Indicator for MORTDUE",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "M_NINQ",
+    "length": 8,
+    "description": "Missing Indicator for NINQ",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "M_REASON",
+    "length": 8,
+    "description": "Missing Indicator for REASON",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "M_VALUE",
+    "length": 8,
+    "description": "Missing Indicator for VALUE",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "M_VARIABLE",
+    "length": 8,
+    "description": "Number of Missing Values",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "M_YOJ",
+    "length": 8,
+    "description": "Missing Indicator for YOJ",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "PC1",
+    "length": 8,
+    "description": "",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "PC2",
+    "length": 8,
+    "description": "",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "PC3",
+    "length": 8,
+    "description": "",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "PC4",
+    "length": 8,
+    "description": "",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "PC5",
+    "length": 8,
+    "description": "",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "P_BAD0",
+    "length": 8,
+    "description": "Predicted: BAD\u003d0",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "P_BAD1",
+    "length": 8,
+    "description": "Predicted: BAD\u003d1",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "SQRT_CLAGE",
+    "length": 8,
+    "description": "Transformed CLAGE",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "SQRT_DEBTINC",
+    "length": 8,
+    "description": "Transformed DEBTINC",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "SQRT_IMP_CLAGE",
+    "length": 8,
+    "description": "Transformed Imputed CLAGE",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "SQRT_ho_winsor_CLNO",
+    "length": 8,
+    "description": "Transformed CLNO: High outlier - winsorize",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "SQRT_ho_winsor_IMP_YOJ",
+    "length": 8,
+    "description": "Transformed IMP_YOJ: High outlier - winsorize",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "SQR_ho_winsor_TARGENC_JOB",
+    "length": 8,
+    "description": "Transformed TARGENC_JOB: High outlier - winsorize",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "SQR_nhoks_nloks_log_YOJ",
+    "length": 8,
+    "description": "Transformed YOJ: Not high (outlier, kurtosis, skewness) - log",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "TARGENC_DELINQ",
+    "length": 8,
+    "description": "Transformed DELINQ",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "TARGENC_DEROG",
+    "length": 8,
+    "description": "Transformed DEROG",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "TARGENC_JOB",
+    "length": 8,
+    "description": "Transformed JOB",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "TARGENC_M_CLAGE",
+    "length": 8,
+    "description": "Transformed Missing Indicator for CLAGE",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "TARGENC_M_CLNO",
+    "length": 8,
+    "description": "Transformed Missing Indicator for CLNO",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "TARGENC_M_DEBTINC",
+    "length": 8,
+    "description": "Transformed Missing Indicator for DEBTINC",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "TARGENC_M_DELINQ",
+    "length": 8,
+    "description": "Transformed Missing Indicator for DELINQ",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "TARGENC_M_DEROG",
+    "length": 8,
+    "description": "Transformed Missing Indicator for DEROG",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "TARGENC_M_JOB",
+    "length": 8,
+    "description": "Transformed Missing Indicator for JOB",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "TARGENC_M_MORTDUE",
+    "length": 8,
+    "description": "Transformed Missing Indicator for MORTDUE",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "TARGENC_M_NINQ",
+    "length": 8,
+    "description": "Transformed Missing Indicator for NINQ",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "TARGENC_M_REASON",
+    "length": 8,
+    "description": "Transformed Missing Indicator for REASON",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "TARGENC_M_VALUE",
+    "length": 8,
+    "description": "Transformed Missing Indicator for VALUE",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "TARGENC_M_YOJ",
+    "length": 8,
+    "description": "Transformed Missing Indicator for YOJ",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "TARGENC_NINQ",
+    "length": 8,
+    "description": "Transformed NINQ",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "TARGENC_REASON",
+    "length": 8,
+    "description": "Transformed REASON",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "_P_",
+    "length": 8,
+    "description": "",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "_WARN_",
+    "length": 4,
+    "description": "Warnings",
+    "type": "string"
+  },
+  {
+    "level": "",
+    "name": "ho_dtree_disct10_M_VARIABLE",
+    "length": 8,
+    "description": "M_VARIABLE: High outlier - ten bin decision tree binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_dtree_disct10_TARGENC_DELINQ",
+    "length": 8,
+    "description": "TARGENC_DELINQ: High outlier - ten bin decision tree binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_dtree_disct10_TARGENC_DEROG",
+    "length": 8,
+    "description": "TARGENC_DEROG: High outlier - ten bin decision tree binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_dtree_disct10_TARGENC_M_CLAGE",
+    "length": 8,
+    "description": "TARGENC_M_CLAGE: High outlier - ten bin decision tree binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_dtree_disct10_TARGENC_M_CLNO",
+    "length": 8,
+    "description": "TARGENC_M_CLNO: High outlier - ten bin decision tree binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_dtree_disct10_TARGENC_M_DEROG",
+    "length": 8,
+    "description": "TARGENC_M_DEROG: High outlier - ten bin decision tree binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_dtree_disct10_TARGENC_M_JOB",
+    "length": 8,
+    "description": "TARGENC_M_JOB: High outlier - ten bin decision tree binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_dtree_disct10_TARGENC_M_NINQ",
+    "length": 8,
+    "description": "TARGENC_M_NINQ: High outlier - ten bin decision tree binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_dtree_disct10_TARGENC_M_YOJ",
+    "length": 8,
+    "description": "TARGENC_M_YOJ: High outlier - ten bin decision tree binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_dtree_disct10_TARGENC_NINQ",
+    "length": 8,
+    "description": "TARGENC_NINQ: High outlier - ten bin decision tree binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_dtree_disct10_var_1_",
+    "length": 8,
+    "description": "TARGENC_M_DEBTINC: High outlier - ten bin decision tree binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_dtree_disct10_var_2_",
+    "length": 8,
+    "description": "TARGENC_M_DELINQ: High outlier - ten bin decision tree binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_dtree_disct5_CLNO",
+    "length": 8,
+    "description": "CLNO: High outlier - five bin decision tree binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_dtree_disct5_IMP_CLNO",
+    "length": 8,
+    "description": "IMP_CLNO: High outlier - five bin decision tree binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_dtree_disct5_IMP_DEBTINC",
+    "length": 8,
+    "description": "IMP_DEBTINC: High outlier - five bin decision tree binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_dtree_disct5_IMP_MORTDUE",
+    "length": 8,
+    "description": "IMP_MORTDUE: High outlier - five bin decision tree binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_dtree_disct5_IMP_VALUE",
+    "length": 8,
+    "description": "IMP_VALUE: High outlier - five bin decision tree binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_dtree_disct5_IMP_YOJ",
+    "length": 8,
+    "description": "IMP_YOJ: High outlier - five bin decision tree binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_dtree_disct5_LOAN",
+    "length": 8,
+    "description": "LOAN: High outlier - five bin decision tree binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_dtree_disct5_MORTDUE",
+    "length": 8,
+    "description": "MORTDUE: High outlier - five bin decision tree binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_dtree_disct5_M_VARIABLE",
+    "length": 8,
+    "description": "M_VARIABLE: High outlier - five bin decision tree binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_dtree_disct5_TARGENC_DELINQ",
+    "length": 8,
+    "description": "TARGENC_DELINQ: High outlier - five bin decision tree binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_dtree_disct5_TARGENC_DEROG",
+    "length": 8,
+    "description": "TARGENC_DEROG: High outlier - five bin decision tree binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_dtree_disct5_TARGENC_M_CLAGE",
+    "length": 8,
+    "description": "TARGENC_M_CLAGE: High outlier - five bin decision tree binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_dtree_disct5_TARGENC_M_CLNO",
+    "length": 8,
+    "description": "TARGENC_M_CLNO: High outlier - five bin decision tree binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_dtree_disct5_TARGENC_M_DELINQ",
+    "length": 8,
+    "description": "TARGENC_M_DELINQ: High outlier - five bin decision tree binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_dtree_disct5_TARGENC_M_DEROG",
+    "length": 8,
+    "description": "TARGENC_M_DEROG: High outlier - five bin decision tree binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_dtree_disct5_TARGENC_M_JOB",
+    "length": 8,
+    "description": "TARGENC_M_JOB: High outlier - five bin decision tree binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_dtree_disct5_TARGENC_M_NINQ",
+    "length": 8,
+    "description": "TARGENC_M_NINQ: High outlier - five bin decision tree binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_dtree_disct5_TARGENC_M_YOJ",
+    "length": 8,
+    "description": "TARGENC_M_YOJ: High outlier - five bin decision tree binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_dtree_disct5_TARGENC_NINQ",
+    "length": 8,
+    "description": "TARGENC_NINQ: High outlier - five bin decision tree binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_dtree_disct5_VALUE",
+    "length": 8,
+    "description": "VALUE: High outlier - five bin decision tree binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_dtree_disct5_var_1_",
+    "length": 8,
+    "description": "TARGENC_M_DEBTINC: High outlier - five bin decision tree binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_quan_disct10_IMP_DEBTINC",
+    "length": 8,
+    "description": "IMP_DEBTINC: High outlier - robust IQR + ten bin quantile binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_quan_disct10_TARGENC_DEROG",
+    "length": 8,
+    "description": "TARGENC_DEROG: High outlier - robust IQR + ten bin quantile binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_quan_disct10_TARGENC_JOB",
+    "length": 8,
+    "description": "TARGENC_JOB: High outlier - robust IQR + ten bin quantile binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_quan_disct10_TARGENC_M_CLAGE",
+    "length": 8,
+    "description": "TARGENC_M_CLAGE: High outlier - robust IQR + ten bin quantile binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_quan_disct10_TARGENC_M_CLNO",
+    "length": 8,
+    "description": "TARGENC_M_CLNO: High outlier - robust IQR + ten bin quantile binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_quan_disct10_TARGENC_M_DELINQ",
+    "length": 8,
+    "description": "TARGENC_M_DELINQ: High outlier - robust IQR + ten bin quantile binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_quan_disct10_TARGENC_M_DEROG",
+    "length": 8,
+    "description": "TARGENC_M_DEROG: High outlier - robust IQR + ten bin quantile binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_quan_disct10_TARGENC_M_JOB",
+    "length": 8,
+    "description": "TARGENC_M_JOB: High outlier - robust IQR + ten bin quantile binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_quan_disct10_TARGENC_M_NINQ",
+    "length": 8,
+    "description": "TARGENC_M_NINQ: High outlier - robust IQR + ten bin quantile binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_quan_disct10_TARGENC_M_YOJ",
+    "length": 8,
+    "description": "TARGENC_M_YOJ: High outlier - robust IQR + ten bin quantile binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_quan_disct10_var_1_",
+    "length": 8,
+    "description": "TARGENC_M_DEBTINC: High outlier - robust IQR + ten bin quantile binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_quan_disct5_M_VARIABLE",
+    "length": 8,
+    "description": "M_VARIABLE: High outlier - robust IQR + five bin quantile binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_quan_disct5_TARGENC_DEROG",
+    "length": 8,
+    "description": "TARGENC_DEROG: High outlier - robust IQR + five bin quantile binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_quan_disct5_TARGENC_JOB",
+    "length": 8,
+    "description": "TARGENC_JOB: High outlier - robust IQR + five bin quantile binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_quan_disct5_TARGENC_M_CLAGE",
+    "length": 8,
+    "description": "TARGENC_M_CLAGE: High outlier - robust IQR + five bin quantile binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_quan_disct5_TARGENC_M_CLNO",
+    "length": 8,
+    "description": "TARGENC_M_CLNO: High outlier - robust IQR + five bin quantile binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_quan_disct5_TARGENC_M_DEBTINC",
+    "length": 8,
+    "description": "TARGENC_M_DEBTINC: High outlier - robust IQR + five bin quantile binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_quan_disct5_TARGENC_M_DELINQ",
+    "length": 8,
+    "description": "TARGENC_M_DELINQ: High outlier - robust IQR + five bin quantile binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_quan_disct5_TARGENC_M_DEROG",
+    "length": 8,
+    "description": "TARGENC_M_DEROG: High outlier - robust IQR + five bin quantile binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_quan_disct5_TARGENC_M_JOB",
+    "length": 8,
+    "description": "TARGENC_M_JOB: High outlier - robust IQR + five bin quantile binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_quan_disct5_TARGENC_M_NINQ",
+    "length": 8,
+    "description": "TARGENC_M_NINQ: High outlier - robust IQR + five bin quantile binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_quan_disct5_TARGENC_M_YOJ",
+    "length": 8,
+    "description": "TARGENC_M_YOJ: High outlier - robust IQR + five bin quantile binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_winsor_CLNO",
+    "length": 8,
+    "description": "CLNO: High outlier - winsorize",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_winsor_IMP_CLNO",
+    "length": 8,
+    "description": "IMP_CLNO: High outlier - winsorize",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_winsor_IMP_MORTDUE",
+    "length": 8,
+    "description": "IMP_MORTDUE: High outlier - winsorize",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_winsor_IMP_VALUE",
+    "length": 8,
+    "description": "IMP_VALUE: High outlier - winsorize",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_winsor_IMP_YOJ",
+    "length": 8,
+    "description": "IMP_YOJ: High outlier - winsorize",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_winsor_LOAN",
+    "length": 8,
+    "description": "LOAN: High outlier - winsorize",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_winsor_MORTDUE",
+    "length": 8,
+    "description": "MORTDUE: High outlier - winsorize",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_winsor_TARGENC_JOB",
+    "length": 8,
+    "description": "TARGENC_JOB: High outlier - winsorize",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "ho_winsor_VALUE",
+    "length": 8,
+    "description": "VALUE: High outlier - winsorize",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "hs_bc_0_TARGENC_M_VALUE",
+    "length": 8,
+    "description": "TARGENC_M_VALUE: High skewness - Box-Cox(lambda\u003d0)",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "hs_bc_n1_TARGENC_M_VALUE",
+    "length": 8,
+    "description": "TARGENC_M_VALUE: High skewness - Box-Cox(lambda\u003d-1)",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "hs_bc_n2_TARGENC_M_VALUE",
+    "length": 8,
+    "description": "TARGENC_M_VALUE: High skewness - Box-Cox(lambda\u003d-2)",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "hs_bc_p1_TARGENC_M_VALUE",
+    "length": 8,
+    "description": "TARGENC_M_VALUE: High skewness - Box-Cox(lambda\u003d1)",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "hs_bc_p2_TARGENC_M_VALUE",
+    "length": 8,
+    "description": "TARGENC_M_VALUE: High skewness - Box-Cox(lambda\u003d2)",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "hs_dtree_disct10_TARGENC_M_VALUE",
+    "length": 8,
+    "description": "TARGENC_M_VALUE: High skewness - ten bin decision tree binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "hs_dtree_disct5_TARGENC_M_VALUE",
+    "length": 8,
+    "description": "TARGENC_M_VALUE: High skewness - five bin decision tree binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "nhoks_nloks_dtree_5_LOG_LOAN",
+    "length": 8,
+    "description": "LOG_LOAN: Not high (outlier, kurtosis, skewness) - five bin decision tree binning",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "nhoks_nloks_log_YOJ",
+    "length": 8,
+    "description": "YOJ: Not high (outlier, kurtosis, skewness) - log",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "nhoks_nloks_pow_n2_LOG_LOAN",
+    "length": 8,
+    "description": "LOG_LOAN: Not high (outlier, kurtosis, skewness) - power(-2)",
+    "type": "decimal"
+  },
+  {
+    "level": "",
+    "name": "nhoks_nloks_pow_n2_YOJ",
+    "length": 8,
+    "description": "YOJ: Not high (outlier, kurtosis, skewness) - power(-2)",
+    "type": "decimal"
+  }
+]
